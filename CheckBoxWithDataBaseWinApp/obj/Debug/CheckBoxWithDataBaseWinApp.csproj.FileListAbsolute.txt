@@ -11,3 +11,16 @@ C:\WorkSpace\BCA SEM-4\C# Form App\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBa
 C:\WorkSpace\BCA SEM-4\C# Form App\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.csproj.CoreCompileInputs.cache
 C:\WorkSpace\BCA SEM-4\C# Form App\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.exe
 C:\WorkSpace\BCA SEM-4\C# Form App\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.pdb
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\bin\Debug\SkillsDB.mdf
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\bin\Debug\SkillsDB_log.ldf
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\bin\Debug\CheckBoxWithDataBaseWinApp.exe.config
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\bin\Debug\CheckBoxWithDataBaseWinApp.exe
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\bin\Debug\CheckBoxWithDataBaseWinApp.pdb
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.csproj.AssemblyReference.cache
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.csproj.SuggestedBindingRedirects.cache
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.Form1.resources
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.Properties.Resources.resources
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.csproj.GenerateResource.cache
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.csproj.CoreCompileInputs.cache
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.exe
+C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\obj\Debug\CheckBoxWithDataBaseWinApp.pdb
