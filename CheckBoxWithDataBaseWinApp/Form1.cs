@@ -47,7 +47,7 @@ namespace CheckBoxWithDataBaseWinApp
         {
             try
             {
-                conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\WorkSpace\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\SkillsDB.mdf';Integrated Security=True");
+                conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\CheckBoxWithDataBaseWinApp\CheckBoxWithDataBaseWinApp\SkillsDB.mdf;Integrated Security=True");
                 conn.Open();
                 if (conn.State == ConnectionState.Open)
                 {
